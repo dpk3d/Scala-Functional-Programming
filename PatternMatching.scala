@@ -1,4 +1,4 @@
-package com
+package com.deepak.pattern
 
 object PatternMatching {
 
