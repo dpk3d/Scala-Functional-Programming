@@ -1,4 +1,4 @@
-package com
+package com.deepak.loop
 
 object Loops {
 
